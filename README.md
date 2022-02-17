@@ -12,5 +12,9 @@
 + [ИСР 1.5](https://github.com/Amiiira/amiiira.github.io/blob/master/%D0%98%D0%A1%D0%A0%201.5.pdf)
 + [ИСР 1.6](https://github.com/Amiiira/amiiira.github.io/blob/master/%D0%98%D0%A1%D0%A0%201.6.pdf)
 + [ИСР 1.7](https://github.com/Amiiira/amiiira.github.io/blob/master/%D0%98%D0%A1%D0%A0%201.7.pdf)
++ [ИСР 1.8](https://github.com/Amiiira/amiiira.github.io/blob/master/%D0%98%D0%A1%D0%A0%201.8.pdf)
++ [ИСР 1.9](https://github.com/Amiiira/amiiira.github.io/blob/master/%D0%98%D0%A1%D0%A0%201.9.pdf)
++ [ИСР 1.10](https://github.com/Amiiira/amiiira.github.io/blob/master/%D0%98%D0%A1%D0%A0%201.10.pdf)
++ [ИСР 1.11](https://github.com/Amiiira/amiiira.github.io/blob/master/%D0%98%D0%A1%D0%A0%201.11.pdf)
 ---
 ### Вариативная самостоятельная работа:
